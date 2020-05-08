@@ -25,10 +25,10 @@ sections:
   component: services_block.html
   subtitle: An optional subtitle of the section
   serviceslist:
-  - title: Service Title
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+  - title: Bars/Restaurants
+    content: If you are a fan of comedy who has a space that can seat between 10 -
+      100 people and interested in supporting live arts feel free to contact us using
+      the form
   - title: Service Title
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
