@@ -20,7 +20,7 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: Work With Us
+  title: 'WORK WITH US '
   section_id: services
   component: services_block.html
   subtitle: 'You bring the space we bring the show '
@@ -37,17 +37,17 @@ sections:
       If you'd like to add comedy to your gathering plans send us a line to learn how it would work
 - type: postsblock
   template: postsblock
-  title: Articles
+  title: ARTICLES
   section_id: latest-posts
   component: posts_block.html
-  subtitle: ''
+  subtitle: Writings from local Ottawa comedians
   num_posts_displayed: 2
   actions:
   - label: View More
     url: blog/index.html
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: 'CONTACT '
   section_id: contact
   component: contact_block.html
   subtitle: ''
