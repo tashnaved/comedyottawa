@@ -26,9 +26,10 @@ sections:
   subtitle: ''
   serviceslist:
   - title: Bars || Restaurants
-    content: If you are a fan of comedy who has a space that can seat between 10 -
-      100 people and interested in supporting live arts feel free to contact us using
-      the form
+    content: |-
+      ![](/images/IMG-1778.JPG)
+
+      If you are a fan of comedy who has a space that can seat between 10 - 100 people and are interested in performing arts patronage feel free to contact us using the form
   - title: Apartments || Parties
     content: |-
       ![](/images/8.jpg)
