@@ -36,10 +36,10 @@ sections:
       If you'd like to add comedy to your gathering plans send us a line to learn how it would work
 - type: postsblock
   template: postsblock
-  title: Articles | Blogs | Reviews
+  title: Articles
   section_id: latest-posts
   component: posts_block.html
-  subtitle: Writings from local Ottawa comedians
+  subtitle: ''
   num_posts_displayed: 2
   actions:
   - label: View More
