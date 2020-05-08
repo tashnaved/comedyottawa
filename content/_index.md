@@ -30,8 +30,10 @@ sections:
       100 people and interested in supporting live arts feel free to contact us using
       the form
   - title: Apartments || Parties
-    content: 'If you''d like to add comedy to your gathering plans send us a line
-      to learn how it would work '
+    content: |-
+      ![](/images/8.jpg)
+
+      If you'd like to add comedy to your gathering plans send us a line to learn how it would work
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
