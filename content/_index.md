@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: ''
   section_id: hero
   component: hero_block.html
-  content: 'A listing of comedy shows in Ottawa produced by comedians independently.
-    This website is maintained by [this guy](https://www.instagram.com/lowenergycomic/). '
+  content: "## A listing of comedy shows in Ottawa produced by comedians independently.
+    This website is maintained by [this guy](https://www.instagram.com/lowenergycomic/). "
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
