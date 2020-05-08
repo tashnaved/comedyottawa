@@ -23,7 +23,7 @@ sections:
   title: 'You bring the space we bring the show '
   section_id: services
   component: services_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   serviceslist:
   - title: Bars || Restaurants
     content: If you are a fan of comedy who has a space that can seat between 10 -
