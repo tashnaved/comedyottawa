@@ -20,7 +20,7 @@ sections:
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: 'You bring the space we bring the show '
   section_id: services
   component: services_block.html
   subtitle: An optional subtitle of the section
