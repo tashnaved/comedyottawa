@@ -25,20 +25,13 @@ sections:
   component: services_block.html
   subtitle: An optional subtitle of the section
   serviceslist:
-  - title: Bars/Restaurants
+  - title: Bars || Restaurants
     content: If you are a fan of comedy who has a space that can seat between 10 -
       100 people and interested in supporting live arts feel free to contact us using
       the form
   - title: Apartments/Parties
     content: 'If you''d like to add comedy to your gathering plans send us a line
       to learn how it would work '
-  - title: Service title
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
