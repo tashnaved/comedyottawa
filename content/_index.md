@@ -18,6 +18,16 @@ sections:
   num_projects_displayed: 4
   view_all_text: 'View All '
   view_all_url: portfolio/index.html
+- type: postsblock
+  template: postsblock
+  title: ARTICLES
+  section_id: latest-posts
+  component: posts_block.html
+  subtitle: Writings from local Ottawa comedians
+  num_posts_displayed: 2
+  actions:
+  - label: View More
+    url: blog/index.html
 - type: servicesblock
   template: servicesblock
   title: 'WORK WITH US '
@@ -35,16 +45,6 @@ sections:
       ![](/images/8.jpg)
 
       If you'd like to add comedy to your gathering plans send us a line to learn how it would work
-- type: postsblock
-  template: postsblock
-  title: ARTICLES
-  section_id: latest-posts
-  component: posts_block.html
-  subtitle: Writings from local Ottawa comedians
-  num_posts_displayed: 2
-  actions:
-  - label: View More
-    url: blog/index.html
 - type: contactblock
   template: contactblock
   title: 'CONTACT '
