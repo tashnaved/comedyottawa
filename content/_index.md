@@ -49,7 +49,7 @@ sections:
   title: Contact Us
   section_id: contact
   component: contact_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
 layout: home
 menu:
   main:
