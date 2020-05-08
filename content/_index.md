@@ -10,12 +10,12 @@ sections:
     by [this guy](https://www.instagram.com/lowenergycomic/). "
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: 'Current Shows '
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: An optional subtitle of the section
-  layout_style: mosaic
-  num_projects_displayed: 6
+  layout_style: tiles
+  num_projects_displayed: 4
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock
