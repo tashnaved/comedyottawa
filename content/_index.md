@@ -13,10 +13,10 @@ sections:
   title: 'Current Shows '
   section_id: latest-projects
   component: portfolio_block.html
-  subtitle: An optional subtitle of the section
+  subtitle: ''
   layout_style: tiles
   num_projects_displayed: 4
-  view_all_text: View All
+  view_all_text: 'View All '
   view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
