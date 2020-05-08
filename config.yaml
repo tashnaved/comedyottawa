@@ -2,8 +2,8 @@
 title: Stackbit Exto Theme
 baseURL: "/"
 params:
-  color_scheme: dark
-  accent_color: pink
+  color_scheme: light
+  accent_color: violet
   header:
     title: 'Comedy Ottawa '
     has_nav: true
