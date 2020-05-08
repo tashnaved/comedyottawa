@@ -29,10 +29,9 @@ sections:
     content: If you are a fan of comedy who has a space that can seat between 10 -
       100 people and interested in supporting live arts feel free to contact us using
       the form
-  - title: Service Title
-    content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-      a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
-      ut tellus. Vivamus rhoncus mattis varius. '
+  - title: Apartments/Parties
+    content: 'If you''d like to add comedy to your gathering plans send us a line
+      to learn how it would work '
   - title: Service title
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
