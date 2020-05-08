@@ -10,7 +10,7 @@ sections:
     by [this guy](https://www.instagram.com/lowenergycomic/). "
 - type: portfolioblock
   template: portfolioblock
-  title: 'Current Shows '
+  title: CURRENT SHOWS
   section_id: latest-projects
   component: portfolio_block.html
   subtitle: ''
