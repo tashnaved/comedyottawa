@@ -13,7 +13,7 @@ sections:
   title: 'Current Shows '
   section_id: latest-projects
   component: portfolio_block.html
-  subtitle: ''
+  subtitle: For the full list click View More
   layout_style: tiles
   num_projects_displayed: 4
   view_all_text: 'View All '
