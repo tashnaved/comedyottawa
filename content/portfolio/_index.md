@@ -2,9 +2,10 @@
 title: Portfolio
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
+layout: portfolio
 menu:
   main:
-    name: Portfolio
+    name: Shows
     weight: 2
-layout: portfolio
+
 ---
