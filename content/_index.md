@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: hero_block.html
   content: "## A list of independently produced comedy shows in Ottawa maintained
-    by [this guy](https://www.instagram.com/lowenergycomic/). "
+    by [this guy](https://www.instagram.com/lowenergycomic/)."
 - type: portfolioblock
   template: portfolioblock
   title: CURRENT SHOWS
