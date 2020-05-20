@@ -5,7 +5,8 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 5
+    name: About/Contact
+    weight: 4
 
 ---
 Comedy Ottawa was started in 2014 by [Tash](https://www.instagram.com/lowenergycomic/) and [Daniel](https://www.instagram.com/gorgeous_taco/). 
