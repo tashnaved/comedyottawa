@@ -13,13 +13,6 @@ sections:
 
     * listing of our current active shows
     * articles, reviews and other recent writing from local comedians
-- template: heroblock
-  component: hero_block.html
-  type: heroblock
-  title: ''
-  section_id: ''
-  content: "On this site you will find: \n\n* listing of our current active shows\n*
-    articles, reviews and other recent writing from local comedians"
 layout: home
 menu:
   main:
