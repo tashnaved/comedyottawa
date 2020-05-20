@@ -8,10 +8,10 @@ menu:
     weight: 4
 
 ---
-Comedy Ottawa was started in 2014 to independently produce shows all over Ottawa. 
+Comedy Ottawa was started in 2014 by [Tash](https://www.instagram.com/lowenergycomic/) and [Daniel](https://www.instagram.com/gorgeous_taco/).
 
-Here we list the shows we produce and other shows produced by local comedians.
+We are a network of active local comedians who produce and host their own shows, live at various venues and online. 
 
-If you have a space and would like to co-produce shows with us use the contact form to reach out and we'll get back to you.
+Please use the contact form to reach out if you'd like to work with us.
 
 This website is maintained by [@lowenergycomic](https://www.instagram.com/lowenergycomic/)
