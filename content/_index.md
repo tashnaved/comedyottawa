@@ -13,7 +13,7 @@ sections:
   title: ARTICLES
   section_id: latest-posts
   component: posts_block.html
-  subtitle: Writings from local Ottawa comedians
+  subtitle: An assortment of writing from local Ottawa comedians
   num_posts_displayed: 2
   actions:
   - label: View More
