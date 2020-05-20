@@ -6,10 +6,8 @@ sections:
   title: ''
   section_id: hero
   component: hero_block.html
-  content: |-
-    ![](/images/IMG-1778.JPG)
-
-    ## A list of independently produced comedy shows in Ottawa maintained by [this guy](https://www.instagram.com/lowenergycomic/).
+  content: A list of independently produced comedy shows in Ottawa maintained by [this
+    guy](https://www.instagram.com/lowenergycomic/).
 - type: portfolioblock
   template: portfolioblock
   title: CURRENT SHOWS
