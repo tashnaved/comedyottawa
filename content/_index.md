@@ -39,7 +39,7 @@ sections:
   component: portfolio_block.html
   layout_style: tiles
   type: portfolioblock
-  num_projects_displayed: 3
+  num_projects_displayed: 2
   title: WORK WITH US
   section_id: ''
   subtitle: ''
