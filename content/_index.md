@@ -26,15 +26,12 @@ sections:
   subtitle: 'You bring the space we bring the show '
   serviceslist:
   - title: Bars || Restaurants
-    content: |-
-      ![](/images/IMG-1778.JPG)
-
-      If you are a fan of comedy who has a space that can seat between 10 - 100 people and are interested in performing arts patronage feel free to contact us using the form
+    content: If you are a fan of comedy who has a space that can seat between 10 -
+      100 people and are interested in performing arts patronage feel free to contact
+      us using the form
   - title: Apartments || Parties
-    content: |-
-      ![](/images/8.jpg)
-
-      If you'd like to add comedy to your gathering plans send us a line to learn how it would work
+    content: If you'd like to add comedy to your gathering plans send us a line to
+      learn how it would work
 layout: home
 menu:
   main:
