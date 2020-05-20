@@ -1,5 +1,5 @@
 ---
-title: Stackbit Exto Theme
+title: Comedy Ottawa
 baseURL: "/"
 params:
   color_scheme: light
@@ -8,10 +8,10 @@ params:
     title: 'Comedy Ottawa '
     has_nav: true
   footer:
-    content: "&copy; Stackbit-Exto. All rights reserved."
+    content: 'made by '
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: "@lowenergycomic"
+      url: https://www.instagram.com/lowenergycomic/
       new_window: true
     has_social: true
 disableKinds:
