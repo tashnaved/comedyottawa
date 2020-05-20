@@ -35,12 +35,6 @@ sections:
       ![](/images/8.jpg)
 
       If you'd like to add comedy to your gathering plans send us a line to learn how it would work
-- type: contactblock
-  template: contactblock
-  title: 'CONTACT '
-  section_id: contact
-  component: contact_block.html
-  subtitle: ''
 layout: home
 menu:
   main:
