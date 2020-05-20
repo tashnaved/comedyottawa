@@ -8,16 +8,6 @@ sections:
   component: hero_block.html
   content: "### A list of independently produced comedy shows in Ottawa maintained
     by [this guy](https://www.instagram.com/lowenergycomic/)."
-- type: portfolioblock
-  template: portfolioblock
-  title: CURRENT SHOWS
-  section_id: latest-projects
-  component: portfolio_block.html
-  subtitle: ''
-  layout_style: tiles
-  num_projects_displayed: 4
-  view_all_text: 'View All '
-  view_all_url: portfolio/index.html
 - type: postsblock
   template: postsblock
   title: ARTICLES
