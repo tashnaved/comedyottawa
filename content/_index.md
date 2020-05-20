@@ -14,7 +14,8 @@ sections:
   type: heroblock
   title: ''
   section_id: ''
-  content: ''
+  content: "On this site you will find: \n\n* listing of our current active shows\n*
+    articles, reviews and other recent writing from local comedians"
 - type: postsblock
   template: postsblock
   title: ARTICLES
