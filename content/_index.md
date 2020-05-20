@@ -35,6 +35,16 @@ sections:
   - title: Apartments || Parties
     content: If you'd like to add comedy to your gathering plans send us a line to
       learn how it would work
+- template: portfolioblock
+  component: portfolio_block.html
+  layout_style: tiles
+  type: portfolioblock
+  num_projects_displayed: 3
+  title: WORK WITH US
+  section_id: ''
+  subtitle: ''
+  view_all_text: ''
+  view_all_url: ''
 layout: home
 menu:
   main:
