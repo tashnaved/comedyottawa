@@ -8,10 +8,10 @@ menu:
     weight: 4
 
 ---
-We've been independently producing comedy shows all over Ottawa since 2014. 
+Comedy Ottawa was started in 2014 to independently produce shows all over Ottawa. 
 
-Here we list the shows we produce and other shows produced by local comedians
+Here we list the shows we produce and other shows produced by local comedians.
 
-If you have a space and would like to co-produce shows with us use the contact form to reach out. 
+If you have a space and would like to co-produce shows with us use the contact form to reach out and we'll get back to you.
 
 This website is maintained by [@lowenergycomic](https://www.instagram.com/lowenergycomic/)
