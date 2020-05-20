@@ -6,8 +6,11 @@ sections:
   title: ''
   section_id: hero
   component: hero_block.html
-  content: "### A list of independently produced comedy shows in Ottawa maintained
-    by us."
+  content: "Comedy Ottawa was started in 2014 by [Tash](https://www.instagram.com/lowenergycomic/)
+    and [Daniel](https://www.instagram.com/gorgeous_taco/). \n\nWe are a network of
+    active local comedians who produce and host their own shows, live at various venues
+    and online.\n\nPlease use the contact form to reach out if you’d like to work
+    with us.\n\nThis website is maintained by [this guy](https://www.instagram.com/lowenergycomic/)."
 - type: postsblock
   template: postsblock
   title: ARTICLES
