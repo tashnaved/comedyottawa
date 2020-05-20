@@ -7,7 +7,7 @@ params:
   header:
     title: 'Comedy Ottawa '
     has_nav: true
-    logo_img: "/images/8.jpg"
+    logo_img: "/images/comedyottawa-logo_colour.jpg"
   footer:
     content: 'made by '
     links:
