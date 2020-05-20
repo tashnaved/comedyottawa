@@ -5,7 +5,6 @@ date: 2018-01-15
 thumb_img_path: images/7_thumb.jpg
 content_img_path: images/7.jpg
 layout: project
-draft: true
 
 ---
 Diam maecenas sed enim ut sem. Nisl purus in mollis nunc sed id semper. Dictum sit amet justo donec enim diam vulputate ut pharetra. Eget velit aliquet sagittis id consectetur purus ut. Auctor neque vitae tempus quam pellentesque nec. Sed enim ut sem viverra aliquet eget. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Enim tortor at auctor urna nunc id cursus. Fermentum et sollicitudin ac orci phasellus. Nunc non blandit massa enim nec dui. Cursus euismod quis viverra nibh cras pulvinar. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Dui vivamus arcu felis bibendum ut.
