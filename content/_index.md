@@ -9,6 +9,12 @@ sections:
   content: "### [Comedy Ottawa](https://www.instagram.com/comedyottawa/) is a network
     of active local comedians who produce and host their own shows, live at various
     venues and online. "
+- template: heroblock
+  component: hero_block.html
+  type: heroblock
+  title: ''
+  section_id: ''
+  content: ''
 - type: postsblock
   template: postsblock
   title: ARTICLES
